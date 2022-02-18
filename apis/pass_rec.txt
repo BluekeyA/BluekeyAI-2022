@@ -1,8 +1,0 @@
-Hello, 
-
-This is your One Time Password. Please do not share this with anyone.
-
-${OTP}
-
-Regards,
-Bluekey AI
